@@ -1,0 +1,8 @@
+C:\Users\ufukg\source\repos\NorthwindProductSerileştirme\bin\Debug\NorthwindProductSerileştirme.exe.config
+C:\Users\ufukg\source\repos\NorthwindProductSerileştirme\bin\Debug\NorthwindProductSerileştirme.exe
+C:\Users\ufukg\source\repos\NorthwindProductSerileştirme\bin\Debug\NorthwindProductSerileştirme.pdb
+C:\Users\ufukg\source\repos\NorthwindProductSerileştirme\obj\Debug\NorthwindProductSerilestirme.csproj.AssemblyReference.cache
+C:\Users\ufukg\source\repos\NorthwindProductSerileştirme\obj\Debug\NorthwindProductSerilestirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ufukg\source\repos\NorthwindProductSerileştirme\obj\Debug\NorthwindProductSerilestirme.csproj.CoreCompileInputs.cache
+C:\Users\ufukg\source\repos\NorthwindProductSerileştirme\obj\Debug\NorthwindProductSerileştirme.exe
+C:\Users\ufukg\source\repos\NorthwindProductSerileştirme\obj\Debug\NorthwindProductSerileştirme.pdb

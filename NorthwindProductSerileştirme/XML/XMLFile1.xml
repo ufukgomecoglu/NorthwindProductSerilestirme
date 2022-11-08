@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Depo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Products>
+    <Product>
+      <UrunKimlik>1</UrunKimlik>
+      <UrunIsim>Chai</UrunIsim>
+      <KategoriAdi>Beverages</KategoriAdi>
+      <Fiyati>18.0000</Fiyati>
+      <Stok>39</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>2</UrunKimlik>
+      <UrunIsim>Chang</UrunIsim>
+      <KategoriAdi>Beverages</KategoriAdi>
+      <Fiyati>19.0000</Fiyati>
+      <Stok>17</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>3</UrunKimlik>
+      <UrunIsim>Aniseed Syrup</UrunIsim>
+      <KategoriAdi>Condiments</KategoriAdi>
+      <Fiyati>10.0000</Fiyati>
+      <Stok>13</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>4</UrunKimlik>
+      <UrunIsim>Chef Anton's Cajun Seasoning</UrunIsim>
+      <KategoriAdi>Condiments</KategoriAdi>
+      <Fiyati>22.0000</Fiyati>
+      <Stok>53</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>6</UrunKimlik>
+      <UrunIsim>Grandma's Boysenberry Spread</UrunIsim>
+      <KategoriAdi>Condiments</KategoriAdi>
+      <Fiyati>25.0000</Fiyati>
+      <Stok>120</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>7</UrunKimlik>
+      <UrunIsim>Uncle Bob's Organic Dried Pears</UrunIsim>
+      <KategoriAdi>Produce</KategoriAdi>
+      <Fiyati>30.0000</Fiyati>
+      <Stok>15</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>8</UrunKimlik>
+      <UrunIsim>Northwoods Cranberry Sauce</UrunIsim>
+      <KategoriAdi>Condiments</KategoriAdi>
+      <Fiyati>40.0000</Fiyati>
+      <Stok>6</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>10</UrunKimlik>
+      <UrunIsim>Ikura</UrunIsim>
+      <KategoriAdi>Seafood</KategoriAdi>
+      <Fiyati>31.0000</Fiyati>
+      <Stok>31</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>11</UrunKimlik>
+      <UrunIsim>Queso Cabrales</UrunIsim>
+      <KategoriAdi>Dairy Products</KategoriAdi>
+      <Fiyati>21.0000</Fiyati>
+      <Stok>22</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>12</UrunKimlik>
+      <UrunIsim>Queso Manchego La Pastora</UrunIsim>
+      <KategoriAdi>Dairy Products</KategoriAdi>
+      <Fiyati>38.0000</Fiyati>
+      <Stok>86</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>13</UrunKimlik>
+      <UrunIsim>Konbu</UrunIsim>
+      <KategoriAdi>Seafood</KategoriAdi>
+      <Fiyati>6.0000</Fiyati>
+      <Stok>24</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>14</UrunKimlik>
+      <UrunIsim>Tofu</UrunIsim>
+      <KategoriAdi>Produce</KategoriAdi>
+      <Fiyati>23.2500</Fiyati>
+      <Stok>35</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>15</UrunKimlik>
+      <UrunIsim>Genen Shouyu</UrunIsim>
+      <KategoriAdi>Condiments</KategoriAdi>
+      <Fiyati>15.5000</Fiyati>
+      <Stok>39</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>16</UrunKimlik>
+      <UrunIsim>Pavlova</UrunIsim>
+      <KategoriAdi>Confections</KategoriAdi>
+      <Fiyati>17.4500</Fiyati>
+      <Stok>29</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>18</UrunKimlik>
+      <UrunIsim>Carnarvon Tigers</UrunIsim>
+      <KategoriAdi>Seafood</KategoriAdi>
+      <Fiyati>62.5000</Fiyati>
+      <Stok>42</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>19</UrunKimlik>
+      <UrunIsim>Teatime Chocolate Biscuits</UrunIsim>
+      <KategoriAdi>Confections</KategoriAdi>
+      <Fiyati>9.2000</Fiyati>
+      <Stok>25</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>20</UrunKimlik>
+      <UrunIsim>Sir Rodney's Marmalade</UrunIsim>
+      <KategoriAdi>Confections</KategoriAdi>
+      <Fiyati>81.0000</Fiyati>
+      <Stok>40</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>21</UrunKimlik>
+      <UrunIsim>Sir Rodney's Scones</UrunIsim>
+      <KategoriAdi>Confections</KategoriAdi>
+      <Fiyati>10.0000</Fiyati>
+      <Stok>3</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>22</UrunKimlik>
+      <UrunIsim>Gustaf's Knäckebröd</UrunIsim>
+      <KategoriAdi>Grains/Cereals</KategoriAdi>
+      <Fiyati>21.0000</Fiyati>
+      <Stok>104</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>23</UrunKimlik>
+      <UrunIsim>Tunnbröd</UrunIsim>
+      <KategoriAdi>Grains/Cereals</KategoriAdi>
+      <Fiyati>9.0000</Fiyati>
+      <Stok>61</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>25</UrunKimlik>
+      <UrunIsim>NuNuCa Nuß-Nougat-Creme</UrunIsim>
+      <KategoriAdi>Confections</KategoriAdi>
+      <Fiyati>14.0000</Fiyati>
+      <Stok>76</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>26</UrunKimlik>
+      <UrunIsim>Gumbär Gummibärchen</UrunIsim>
+      <KategoriAdi>Confections</KategoriAdi>
+      <Fiyati>31.2300</Fiyati>
+      <Stok>15</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>27</UrunKimlik>
+      <UrunIsim>Schoggi Schokolade</UrunIsim>
+      <KategoriAdi>Confections</KategoriAdi>
+      <Fiyati>43.9000</Fiyati>
+      <Stok>49</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>30</UrunKimlik>
+      <UrunIsim>Nord-Ost Matjeshering</UrunIsim>
+      <KategoriAdi>Seafood</KategoriAdi>
+      <Fiyati>25.8900</Fiyati>
+      <Stok>10</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>31</UrunKimlik>
+      <UrunIsim>Gorgonzola Telino</UrunIsim>
+      <KategoriAdi>Dairy Products</KategoriAdi>
+      <Fiyati>12.5000</Fiyati>
+      <Stok>0</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>32</UrunKimlik>
+      <UrunIsim>Mascarpone Fabioli</UrunIsim>
+      <KategoriAdi>Dairy Products</KategoriAdi>
+      <Fiyati>32.0000</Fiyati>
+      <Stok>9</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>33</UrunKimlik>
+      <UrunIsim>Geitost</UrunIsim>
+      <KategoriAdi>Dairy Products</KategoriAdi>
+      <Fiyati>2.5000</Fiyati>
+      <Stok>112</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>34</UrunKimlik>
+      <UrunIsim>Sasquatch Ale</UrunIsim>
+      <KategoriAdi>Beverages</KategoriAdi>
+      <Fiyati>14.0000</Fiyati>
+      <Stok>111</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>35</UrunKimlik>
+      <UrunIsim>Steeleye Stout</UrunIsim>
+      <KategoriAdi>Beverages</KategoriAdi>
+      <Fiyati>18.0000</Fiyati>
+      <Stok>20</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>36</UrunKimlik>
+      <UrunIsim>Inlagd Sill</UrunIsim>
+      <KategoriAdi>Seafood</KategoriAdi>
+      <Fiyati>19.0000</Fiyati>
+      <Stok>112</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>37</UrunKimlik>
+      <UrunIsim>Gravad lax</UrunIsim>
+      <KategoriAdi>Seafood</KategoriAdi>
+      <Fiyati>26.0000</Fiyati>
+      <Stok>11</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>38</UrunKimlik>
+      <UrunIsim>Côte de Blaye</UrunIsim>
+      <KategoriAdi>Beverages</KategoriAdi>
+      <Fiyati>263.5000</Fiyati>
+      <Stok>17</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>39</UrunKimlik>
+      <UrunIsim>Chartreuse verte</UrunIsim>
+      <KategoriAdi>Beverages</KategoriAdi>
+      <Fiyati>18.0000</Fiyati>
+      <Stok>69</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>40</UrunKimlik>
+      <UrunIsim>Boston Crab Meat</UrunIsim>
+      <KategoriAdi>Seafood</KategoriAdi>
+      <Fiyati>18.4000</Fiyati>
+      <Stok>123</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>41</UrunKimlik>
+      <UrunIsim>Jack's New England Clam Chowder</UrunIsim>
+      <KategoriAdi>Seafood</KategoriAdi>
+      <Fiyati>9.6500</Fiyati>
+      <Stok>85</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>43</UrunKimlik>
+      <UrunIsim>Ipoh Coffee</UrunIsim>
+      <KategoriAdi>Beverages</KategoriAdi>
+      <Fiyati>46.0000</Fiyati>
+      <Stok>17</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>44</UrunKimlik>
+      <UrunIsim>Gula Malacca</UrunIsim>
+      <KategoriAdi>Condiments</KategoriAdi>
+      <Fiyati>19.4500</Fiyati>
+      <Stok>27</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>45</UrunKimlik>
+      <UrunIsim>Rogede sild</UrunIsim>
+      <KategoriAdi>Seafood</KategoriAdi>
+      <Fiyati>9.5000</Fiyati>
+      <Stok>5</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>46</UrunKimlik>
+      <UrunIsim>Spegesild</UrunIsim>
+      <KategoriAdi>Seafood</KategoriAdi>
+      <Fiyati>12.0000</Fiyati>
+      <Stok>95</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>47</UrunKimlik>
+      <UrunIsim>Zaanse koeken</UrunIsim>
+      <KategoriAdi>Confections</KategoriAdi>
+      <Fiyati>9.5000</Fiyati>
+      <Stok>36</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>48</UrunKimlik>
+      <UrunIsim>Chocolade</UrunIsim>
+      <KategoriAdi>Confections</KategoriAdi>
+      <Fiyati>12.7500</Fiyati>
+      <Stok>15</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>49</UrunKimlik>
+      <UrunIsim>Maxilaku</UrunIsim>
+      <KategoriAdi>Confections</KategoriAdi>
+      <Fiyati>20.0000</Fiyati>
+      <Stok>10</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>50</UrunKimlik>
+      <UrunIsim>Valkoinen suklaa</UrunIsim>
+      <KategoriAdi>Confections</KategoriAdi>
+      <Fiyati>16.2500</Fiyati>
+      <Stok>65</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>51</UrunKimlik>
+      <UrunIsim>Manjimup Dried Apples</UrunIsim>
+      <KategoriAdi>Produce</KategoriAdi>
+      <Fiyati>53.0000</Fiyati>
+      <Stok>20</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>52</UrunKimlik>
+      <UrunIsim>Filo Mix</UrunIsim>
+      <KategoriAdi>Grains/Cereals</KategoriAdi>
+      <Fiyati>7.0000</Fiyati>
+      <Stok>38</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>54</UrunKimlik>
+      <UrunIsim>Tourtière</UrunIsim>
+      <KategoriAdi>Meat/Poultry</KategoriAdi>
+      <Fiyati>7.4500</Fiyati>
+      <Stok>21</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>55</UrunKimlik>
+      <UrunIsim>Pâté chinois</UrunIsim>
+      <KategoriAdi>Meat/Poultry</KategoriAdi>
+      <Fiyati>24.0000</Fiyati>
+      <Stok>115</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>56</UrunKimlik>
+      <UrunIsim>Gnocchi di nonna Alice</UrunIsim>
+      <KategoriAdi>Grains/Cereals</KategoriAdi>
+      <Fiyati>38.0000</Fiyati>
+      <Stok>21</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>57</UrunKimlik>
+      <UrunIsim>Ravioli Angelo</UrunIsim>
+      <KategoriAdi>Grains/Cereals</KategoriAdi>
+      <Fiyati>19.5000</Fiyati>
+      <Stok>36</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>58</UrunKimlik>
+      <UrunIsim>Escargots de Bourgogne</UrunIsim>
+      <KategoriAdi>Seafood</KategoriAdi>
+      <Fiyati>13.2500</Fiyati>
+      <Stok>62</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>59</UrunKimlik>
+      <UrunIsim>Raclette Courdavault</UrunIsim>
+      <KategoriAdi>Dairy Products</KategoriAdi>
+      <Fiyati>55.0000</Fiyati>
+      <Stok>79</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>60</UrunKimlik>
+      <UrunIsim>Camembert Pierrot</UrunIsim>
+      <KategoriAdi>Dairy Products</KategoriAdi>
+      <Fiyati>34.0000</Fiyati>
+      <Stok>19</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>61</UrunKimlik>
+      <UrunIsim>Sirop d'érable</UrunIsim>
+      <KategoriAdi>Condiments</KategoriAdi>
+      <Fiyati>28.5000</Fiyati>
+      <Stok>113</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>62</UrunKimlik>
+      <UrunIsim>Tarte au sucre</UrunIsim>
+      <KategoriAdi>Confections</KategoriAdi>
+      <Fiyati>49.3000</Fiyati>
+      <Stok>17</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>63</UrunKimlik>
+      <UrunIsim>Vegie-spread</UrunIsim>
+      <KategoriAdi>Condiments</KategoriAdi>
+      <Fiyati>43.9000</Fiyati>
+      <Stok>24</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>64</UrunKimlik>
+      <UrunIsim>Wimmers gute Semmelknödel</UrunIsim>
+      <KategoriAdi>Grains/Cereals</KategoriAdi>
+      <Fiyati>33.2500</Fiyati>
+      <Stok>22</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>65</UrunKimlik>
+      <UrunIsim>Louisiana Fiery Hot Pepper Sauce</UrunIsim>
+      <KategoriAdi>Condiments</KategoriAdi>
+      <Fiyati>21.0500</Fiyati>
+      <Stok>76</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>66</UrunKimlik>
+      <UrunIsim>Louisiana Hot Spiced Okra</UrunIsim>
+      <KategoriAdi>Condiments</KategoriAdi>
+      <Fiyati>17.0000</Fiyati>
+      <Stok>4</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>67</UrunKimlik>
+      <UrunIsim>Laughing Lumberjack Lager</UrunIsim>
+      <KategoriAdi>Beverages</KategoriAdi>
+      <Fiyati>14.0000</Fiyati>
+      <Stok>52</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>68</UrunKimlik>
+      <UrunIsim>Scottish Longbreads</UrunIsim>
+      <KategoriAdi>Confections</KategoriAdi>
+      <Fiyati>12.5000</Fiyati>
+      <Stok>6</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>69</UrunKimlik>
+      <UrunIsim>Gudbrandsdalsost</UrunIsim>
+      <KategoriAdi>Dairy Products</KategoriAdi>
+      <Fiyati>36.0000</Fiyati>
+      <Stok>26</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>70</UrunKimlik>
+      <UrunIsim>Outback Lager</UrunIsim>
+      <KategoriAdi>Beverages</KategoriAdi>
+      <Fiyati>15.0000</Fiyati>
+      <Stok>15</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>71</UrunKimlik>
+      <UrunIsim>Flotemysost</UrunIsim>
+      <KategoriAdi>Dairy Products</KategoriAdi>
+      <Fiyati>21.5000</Fiyati>
+      <Stok>26</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>72</UrunKimlik>
+      <UrunIsim>Mozzarella di Giovanni</UrunIsim>
+      <KategoriAdi>Dairy Products</KategoriAdi>
+      <Fiyati>34.8000</Fiyati>
+      <Stok>14</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>73</UrunKimlik>
+      <UrunIsim>Röd Kaviar</UrunIsim>
+      <KategoriAdi>Seafood</KategoriAdi>
+      <Fiyati>15.0000</Fiyati>
+      <Stok>101</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>74</UrunKimlik>
+      <UrunIsim>Longlife Tofu</UrunIsim>
+      <KategoriAdi>Produce</KategoriAdi>
+      <Fiyati>10.0000</Fiyati>
+      <Stok>4</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>75</UrunKimlik>
+      <UrunIsim>Rhönbräu Klosterbier</UrunIsim>
+      <KategoriAdi>Beverages</KategoriAdi>
+      <Fiyati>7.7500</Fiyati>
+      <Stok>125</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>76</UrunKimlik>
+      <UrunIsim>Lakkalikööri</UrunIsim>
+      <KategoriAdi>Beverages</KategoriAdi>
+      <Fiyati>18.0000</Fiyati>
+      <Stok>57</Stok>
+    </Product>
+    <Product>
+      <UrunKimlik>77</UrunKimlik>
+      <UrunIsim>Original Frankfurter grüne Soße</UrunIsim>
+      <KategoriAdi>Condiments</KategoriAdi>
+      <Fiyati>13.0000</Fiyati>
+      <Stok>32</Stok>
+    </Product>
+  </Products>
+</Depo>
